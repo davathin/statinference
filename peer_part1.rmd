@@ -1,0 +1,14 @@
+#Comparison of exponential distributions with the Central Limit Theorem
+#David C Latshaw II
+
+##Overview  
+
+
+##Simulations
+
+```{r, echo=TRUE}
+simNumber<-1000
+lambda<-0.2
+numberSamples<-40
+
+```  
