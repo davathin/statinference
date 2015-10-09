@@ -1,0 +1,11 @@
+#Tooth Data
+#David C Latshaw II
+
+##Overview  
+
+
+##Simulations
+
+```{r, echo=TRUE}
+
+```  
